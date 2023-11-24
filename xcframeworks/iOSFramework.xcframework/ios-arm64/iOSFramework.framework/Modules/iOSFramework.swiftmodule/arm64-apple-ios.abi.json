@@ -1,0 +1,66 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iOSFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Main",
+        "printedName": "Main",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "launchFramework",
+            "printedName": "launchFramework()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12iOSFramework4MainC15launchFrameworkyyFZ",
+            "mangledName": "$s12iOSFramework4MainC15launchFrameworkyyFZ",
+            "moduleName": "iOSFramework",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:12iOSFramework4MainC",
+        "mangledName": "$s12iOSFramework4MainC",
+        "moduleName": "iOSFramework",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/chinweekoh\/Desktop\/POC\/iOSFramework\/iOSFramework\/Main.swift",
+      "kind": "StringLiteral",
+      "offset": 172,
+      "length": 17,
+      "value": "\"launchFramework\""
+    }
+  ]
+}

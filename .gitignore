@@ -55,7 +55,6 @@ Carthage/Build
 # Project
 strings
 archives/
-xcframeworks/
 
 # iOSFramework directory
 iOSFramework/Pods
