@@ -1,0 +1,20 @@
+PODS:
+  - iProov (10.3.2)
+  - lottie-ios (4.2.0)
+
+DEPENDENCIES:
+  - iProov (= 10.3.2)
+  - lottie-ios (= 4.2.0)
+
+SPEC REPOS:
+  trunk:
+    - iProov
+    - lottie-ios
+
+SPEC CHECKSUMS:
+  iProov: 2d6e5cecdd2085e270fb61e203c70d9b76e904ac
+  lottie-ios: 809ecf2d460ed650a6aed7aa88b2ec45fab4779c
+
+PODFILE CHECKSUM: 3d2c8893a71db0b31164edbba7419f871d1e7961
+
+COCOAPODS: 1.13.0
