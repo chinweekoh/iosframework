@@ -8,8 +8,8 @@ Pod::Spec.new do |s|
 	DESC
 	s.homepage		= 'https://cocoapods.org/'
 	s.license		= { :type => 'MIT', :file => 'LICENSE' }
-	s.author		= { 'Koh Chin Wee' => 'chinweekoh@hotmail.com }
-	s.source		= { :git => '', :tag => s.version.to_s }
+	s.author		= { 'Koh Chin Wee' => 'chinweekoh@hotmail.com' }
+	s.source		= { :git => 'https://github.com/chinweekoh/iosframework.git', :tag => s.version.to_s }
 
 	s.platform					= :ios, '12.0'
 	s.swift_version				= '5.0'
