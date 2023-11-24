@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 	s.name			= "iosframework"
-	s.version		= "1.0.0"
+	s.version		= "1.0.1"
 	s.summary		= "iOS mobile SDK test framework."
 	s.description 	= <<-DESC
 	iOS mobile SDK test framework distribution.
